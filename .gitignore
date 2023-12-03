@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64
+/.vs
+/PaMa_Encryption_Algorithm.sln
+/PaMa_Encryption_Algorithm.vcxproj
+/PaMa_Encryption_Algorithm.vcxproj.filters
+/PaMa_Encryption_Algorithm.vcxproj.user
