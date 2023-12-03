@@ -1,2 +1,2 @@
-# PMEA (PaMa_Encryption_Algorithm)
- 
+# PMEA (PaMa Encryption Algorithm)
+
